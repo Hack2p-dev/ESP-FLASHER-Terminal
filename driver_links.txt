@@ -1,0 +1,11 @@
+Ссылки для скачивания драйверов DSTIKE: 
+ 
+CH340: https://sparks.gogo.co.nz/ch340.html 
+CH340 Mirror: https://github.com/spacehuhn/esp8266_deauther/raw/gh-pages/resources/CH341SER.EXE 
+CP2102: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers 
+DriverPack: https://driverpack.io/ru 
+ 
+Инструкция: 
+1. Скачайте на компьютере с интернетом 
+2. Перенесите на флешке 
+3. Установите на целевом компьютере 
