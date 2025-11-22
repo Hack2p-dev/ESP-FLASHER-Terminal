@@ -1,5 +1,7 @@
 # ESP-FLASHER by H2p
 
+<img width="1920" height="1080" alt="ESP-CUI" src="https://github.com/user-attachments/assets/7e79af1f-e897-4aa1-b522-ba311f23e83d" />
+
 # RU
 
 Универсальный прошивальщик микроконтроллеров ESP8266/ESP32 с текстовым интерфейсом (TUI/CUI)
